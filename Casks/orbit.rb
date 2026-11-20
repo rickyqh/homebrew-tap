@@ -1,6 +1,6 @@
 cask "orbit" do
   version "1.0.3"
-  sha256 "c07182933ecafe6f9e6ebba0a6fcbb22123612da6391048d5af56a4f67e7ffe2"
+  sha256 "670beaedca45ddf8a6937dc15341e38206a55f936908ac80c1775ec012d0e1f6"
   url "https://github.com/rickyqh/orbit/releases/download/v#{version}/Orbit.dmg"
   name "Orbit"
   desc "A customisable browser by rickyqh"
